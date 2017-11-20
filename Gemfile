@@ -20,6 +20,7 @@ gem 'rest-client'
 gem 'jbuilder'
 gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'jquery-rails'
+gem 'jquery-steps-rails'
 gem 'faker', :git => 'git://github.com/stympy/faker.git', :branch => 'master'
 
 group :development do
