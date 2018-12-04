@@ -39,4 +39,4 @@ end
 # For Heroku required for twelve-factor platforms apps
 gem 'rails_12factor', group: :production
 # Declared ruby version explicitly
-ruby "2.4.1"
+# ruby "2.4.1"
