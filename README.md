@@ -1,6 +1,6 @@
 # Form Wizard using jQuery Steps on Rails
 
-⚠️ Under Demo!!!
+⚠️ Under Demo!!! !!!
 
 # Objective
 
@@ -14,4 +14,4 @@ To allow user to fill-in a form that is a wizard like style.
 
 http://www.jquery-steps.com
 
-On going! ...
+On going!
