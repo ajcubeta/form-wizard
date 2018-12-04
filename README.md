@@ -13,5 +13,3 @@ To allow user to fill-in a form that is a wizard like style.
 # Links
 
 http://www.jquery-steps.com
-
-On going! ...
